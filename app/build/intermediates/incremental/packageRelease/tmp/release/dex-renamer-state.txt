@@ -1,0 +1,4 @@
+#Fri Mar 31 14:39:07 PKT 2023
+base.0=/Users/apple/Desktop/taimoor/FoodNinja/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

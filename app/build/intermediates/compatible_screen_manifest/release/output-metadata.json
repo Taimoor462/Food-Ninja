@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "app.netlify.genuine_bonbon_5f7136.twa",
+  "variantName": "release",
+  "elements": []
+}

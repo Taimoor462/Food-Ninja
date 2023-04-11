@@ -1,0 +1,42 @@
+{
+  "packageId": "app.netlify.genuine_bonbon_5f7136.twa",
+  "host": "genuine-bonbon-5f7136.netlify.app",
+  "name": "Food Ninja",
+  "launcherName": "FoodNinja",
+  "display": "standalone",
+  "themeColor": "#FFE1C4",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFE9D2",
+  "enableNotifications": true,
+  "startUrl": "/index.html",
+  "iconUrl": "https://genuine-bonbon-5f7136.netlify.app/img/icons/icon-512x512.png",
+  "maskableIconUrl": "https://genuine-bonbon-5f7136.netlify.app/img/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/Users/apple/Desktop/taimoor/key\\ saver",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://genuine-bonbon-5f7136.netlify.app/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://genuine-bonbon-5f7136.netlify.app/",
+  "minSdkVersion": 19,
+  "orientation": "portrait-primary",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}

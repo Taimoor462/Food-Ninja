@@ -1,0 +1,8 @@
+app/netlify/genuine_bonbon_5f7136/twa/LauncherActivity.java
+ app.netlify.genuine_bonbon_5f7136.twa.LauncherActivity
+app/netlify/genuine_bonbon_5f7136/twa/Application.java
+ app.netlify.genuine_bonbon_5f7136.twa.Application
+app/netlify/genuine_bonbon_5f7136/twa/DelegationService.java
+ app.netlify.genuine_bonbon_5f7136.twa.DelegationService
+app/netlify/genuine_bonbon_5f7136/twa/BuildConfig.java
+ app.netlify.genuine_bonbon_5f7136.twa.BuildConfig
